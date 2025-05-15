@@ -4,7 +4,7 @@ Welcome to the **Hotel Reservation System**, a Java-based desktop application de
 
 ---
 
-##  Features
+## ✨ Features
 
 - **Reserve a Room**  
   Easily create new reservations by entering guest details, room numbers, and contact information.
@@ -20,7 +20,7 @@ Welcome to the **Hotel Reservation System**, a Java-based desktop application de
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -47,7 +47,7 @@ Welcome to the **Hotel Reservation System**, a Java-based desktop application de
    java HotelReservationSystem
 
 
-### Usage
+###📋 Usage
   - Reserve a room
 
   - View reservations
@@ -57,6 +57,21 @@ Welcome to the **Hotel Reservation System**, a Java-based desktop application de
   - Delete reservation
   
   - Exit
+
+###🤝 Contributing
+  If you find bugs or have ideas for improvements or new features:
+
+  Fork the repository
+  
+  Create a new branch
+  
+  Submit a pull request
+  
+  Issues and discussions are also encouraged!
+
+###🙏 Acknowledgments
+  Special thanks to all contributors and users who support the development of the Hotel Reservation System.
+  Your feedback makes this project better!
 
 
 
