@@ -1,10 +1,10 @@
-# Hotel Reservation System 🏨
+# Hotel Reservation System 
 
 Welcome to the **Hotel Reservation System**, a Java-based desktop application designed to manage hotel reservations efficiently. Whether you're running a small inn or a boutique hotel, this system streamlines the reservation process, enhances guest management, and helps keep your operations organized.
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Reserve a Room**  
   Easily create new reservations by entering guest details, room numbers, and contact information.
@@ -20,7 +20,7 @@ Welcome to the **Hotel Reservation System**, a Java-based desktop application de
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -31,5 +31,29 @@ Welcome to the **Hotel Reservation System**, a Java-based desktop application de
 ### Setup Instructions
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/aman-gupta9793/Hotel-Reservation-System.git
+   ```bash   
+   https://github.com/aman-gupta9793/HotelReservationSystem.git
+
+2. **Configure Database Settings**
+   private static final String DB_URL = "jdbc:mysql://localhost:3306/hotel_db";
+   private static final String DB_USER = "your_username";
+   private static final String DB_PASSWORD = "your_password";
+
+3. **Compile and Run the Application**
+   javac HotelReservationSystem.java
+   java HotelReservationSystem
+
+
+### Usage
+  -Reserve a room
+
+  -View reservations
+  
+  -Edit reservation
+  
+  -Delete reservation
+  
+  -Exit
+
+
+
