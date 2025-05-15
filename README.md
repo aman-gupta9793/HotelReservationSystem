@@ -47,6 +47,7 @@ Welcome to the **Hotel Reservation System**, a Java-based desktop application de
    java HotelReservationSystem
 
 
+
 ### 📋 Usage
   - Reserve a room
 
@@ -58,6 +59,8 @@ Welcome to the **Hotel Reservation System**, a Java-based desktop application de
   
   - Exit
 
+
+
 ### 🤝 Contributing
   If you find bugs or have ideas for improvements or new features:
 
@@ -68,6 +71,8 @@ Welcome to the **Hotel Reservation System**, a Java-based desktop application de
   Submit a pull request
   
   Issues and discussions are also encouraged!
+
+
 
 ### 🙏 Acknowledgments
   Special thanks to all contributors and users who support the development of the Hotel Reservation System.
