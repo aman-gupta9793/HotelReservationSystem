@@ -35,25 +35,28 @@ Welcome to the **Hotel Reservation System**, a Java-based desktop application de
    https://github.com/aman-gupta9793/HotelReservationSystem.git
 
 2. **Configure Database Settings**
+   
    private static final String DB_URL = "jdbc:mysql://localhost:3306/hotel_db";
+   
    private static final String DB_USER = "your_username";
+   
    private static final String DB_PASSWORD = "your_password";
 
-3. **Compile and Run the Application**
+4. **Compile and Run the Application**
    javac HotelReservationSystem.java
    java HotelReservationSystem
 
 
 ### Usage
-  -Reserve a room
+  - Reserve a room
 
-  -View reservations
+  - View reservations
   
-  -Edit reservation
+  - Edit reservation
   
-  -Delete reservation
+  - Delete reservation
   
-  -Exit
+  - Exit
 
 
 
